@@ -1,0 +1,70 @@
+#### HTML
+
+```html
+<p>Traffic Stop 99.</p>
+
+<License class Intermetiate="">Restricted</p>
+```
+<End: None>
+```
+<DL NO.="">951236863</p>
+```
+<DOB="">05/21/2006</p>
+```
+<ISS="">06/27/2022</p>
+```
+<EXP="">06/27/2023</p>
+
+<Rest="">01</p>
+
+<Sex="">F/M</p>
+```
+<HGT="">5'-2"</p>
+```
+<Eyes="">GRE</p>
+
+<DD="">1038529471485375</p>
+
+<Last Name(s)
+First Name, Middle Name>
+
+<100 Main Street Rd>/p>
+<Smyrna, TN 37167</p>
+
+<Back>/p>
+
+<www.Tennessee.Gov>/p>
+
+<05/21/2006>/p>
+```
+<REV=""> 12/02/2011</p>
+```
+<ENDORSEMENTS="">None</p>
+
+<CLASS="">Intermetiate for Cass D (Operator) Vehicles</p>
+
+<RESTRICTIONS="">01 Grasses, Contacts</p>
+
+#### <Warrant?</p>
+
+{{Warrant:("Comfirmed")}}
+
+#### <Vehicle Registration>
+
+```vehicle
+p.fancy {
+  color: red;
+}
+```Vehicle
+p.fancy {
+  Make: Nissan;
+}
+```Vehicle
+p.fancy {
+  Model: GTR;
+
+#### Result
+
+{{Vehicle:("Stolen")}}
+
+Only the `<p>` element with `class="fancy"` will get styled `red`.
